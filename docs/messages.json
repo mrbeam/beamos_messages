@@ -4,7 +4,7 @@
       "id": 1,
       "date": "20. 3. 2020",
       "restrictions": {
-        "__": "Eevaluation  of restrictions needs to be true to show the message",
+        "__": "Evaluation  of restrictions needs to be true to show the message",
         "channels": [],
         "version": [],
         "version_and_newer": null,
