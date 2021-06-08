@@ -15,8 +15,8 @@
       },
       "content": {
         "en": {
-          "title": "Introducing “Messages Form Mr Beam”",
-          "body": "With our new feature “Messages Form Mr Beam” you always be kept up to date with the latest news from Mr Beam about your lasercutter.\nMore to come here shortly.\nPlease make sure you and your Mr Beam lasercutter are connected to the internet to get the latest messages.\n\nYour Mr Beam team"
+          "title": "Introducing “Messages From Mr Beam”",
+          "body": "With our new feature “Messages From Mr Beam” you always be kept up to date with the latest news from Mr Beam about your lasercutter.\nMore to come here shortly.\nPlease make sure you and your Mr Beam lasercutter are connected to the internet to get the latest messages.\n\nYour Mr Beam team"
         },
         "de": {
           "title": "Willkommen bei “Nachrichten von Mr Beam”",
@@ -27,7 +27,7 @@
         "sticky": 30,
         "type": "info",
         "en": {
-          "title": "Introducing “Messages Form Mr Beam”",
+          "title": "Introducing “Messages From Mr Beam”",
           "body": "Stay up to date with the latest news from Mr Beam"
         },
         "de": {
