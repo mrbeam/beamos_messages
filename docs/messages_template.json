@@ -100,9 +100,9 @@
       "restrictions": {
         "__": "Evaluation  of restrictions needs to be true to show the message",
         "channels": [],
-        "version": ["0.9.4"],
-        "version_and_newer": "0.9.3",
-        "version_and_older": "0.9.5",
+        "version": [],
+        "version_and_newer": "0.9.5",
+        "version_and_older": "",
         "not_first_run": false,
         "ts_after": 0,
         "ts_before": 0
