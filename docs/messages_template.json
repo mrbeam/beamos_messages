@@ -101,7 +101,7 @@
         "__": "Evaluation  of restrictions needs to be true to show the message",
         "channels": [],
         "version": [],
-        "version_and_newer": "0.9.5",
+        "version_and_newer": "0.9.6",
         "version_and_older": "",
         "not_first_run": false,
         "ts_after": 0,
