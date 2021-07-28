@@ -21,7 +21,7 @@
             "en":{
                "title":"Introducing “Messages Form Mr Beam”",
                "body":"With our new feature “Messages Form Mr Beam” you always be kept up to date with the latest news from Mr Beam about your lasercutter.\nMore to come here shortly.\nPlease make sure you and your Mr Beam lasercutter are connected to the internet to get the latest messages.\n\nYour Mr Beam team",
-               "cta":{
+               "cta":{https://messages.beamos.mr-beam.org/messages_template.json
                   "label":"",
                   "url":""
                }
@@ -125,7 +125,7 @@
             "version_and_older":"",
             "not_first_run":false,
             "ts_after":null,
-            "ts_before":1627682400000
+            "ts_before":null
          },
          "content":{
             "en":{
@@ -161,7 +161,7 @@
             "version_and_newer":"",
             "version_and_older":"",
             "not_first_run":false,
-            "ts_after":1627336800000,
+            "ts_after":null,
             "ts_before":null
          },
          "content":{
