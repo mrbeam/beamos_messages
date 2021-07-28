@@ -116,7 +116,7 @@
          "restrictions":{
             "__":"Evaluation  of restrictions needs to be true to show the message",
             "channels":[
-               "stable"
+               "prod"
             ],
             "version":[
                ""
