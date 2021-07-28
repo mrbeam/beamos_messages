@@ -195,8 +195,8 @@
             "version":[
                ""
             ],
-            "version_and_newer":"0.9.0",
-            "version_and_older":"",
+            "version_and_newer":"",
+            "version_and_older":"0.9.9",
             "not_first_run":false,
             "ts_after":null,
             "ts_before":null
