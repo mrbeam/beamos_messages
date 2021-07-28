@@ -34,9 +34,7 @@
                   "url":""
                }
             },
-            "images":[
-               ""
-            ]
+            "images":null
          },
          "notification":{
             "sticky":true,
@@ -110,40 +108,6 @@
             "images":[
                "http://messages.beamos.mr-beam.org/img/Testimonial%20EN.png"
             ]
-         },
-         "notification":{
-            "sticky":"",
-            "type":"",
-            "en":{
-               "title":"",
-               "body":"",
-               "cta":{
-                  "label":"",
-                  "url":""
-               }
-            },
-            "de":{
-               "title":"",
-               "body":"",
-               "cta":{
-                  "label":"",
-                  "url":""
-               }
-            },
-            "restrictions":{
-               "__":"Evaluation  of restrictions needs to be true to show the message",
-               "channels":[
-                  ""
-               ],
-               "version":[
-                  ""
-               ],
-               "version_and_newer":"",
-               "version_and_older":"",
-               "not_first_run":"",
-               "ts_after":"",
-               "ts_before":""
-            }
          }
       }
    ]
