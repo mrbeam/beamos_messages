@@ -116,43 +116,6 @@
          "restrictions":{
             "__":"Evaluation  of restrictions needs to be true to show the message",
             "channels":[
-               "prod"
-            ],
-            "version":[
-               ""
-            ],
-            "version_and_newer":"",
-            "version_and_older":"",
-            "not_first_run":false,
-            "ts_after":null,
-            "ts_before":null
-         },
-         "content":{
-            "en":{
-               "title":"test",
-               "body":"test",
-               "cta":{
-                  "label":"test",
-                  "url":""
-               }
-            },
-            "de":{
-               "title":"test ",
-               "body":"test",
-               "cta":{
-                  "label":"test",
-                  "url":""
-               }
-            },
-            "images":null
-         }
-      },
-      {
-         "id":4,
-         "date":"28. 07. 2021",
-         "restrictions":{
-            "__":"Evaluation  of restrictions needs to be true to show the message",
-            "channels":[
                ""
             ],
             "version":[
@@ -162,44 +125,7 @@
             "version_and_older":"",
             "not_first_run":false,
             "ts_after":null,
-            "ts_before":null
-         },
-         "content":{
-            "en":{
-               "title":"test",
-               "body":"test",
-               "cta":{
-                  "label":"test",
-                  "url":""
-               }
-            },
-            "de":{
-               "title":"test ",
-               "body":"test",
-               "cta":{
-                  "label":"test",
-                  "url":""
-               }
-            },
-            "images":null
-         }
-      },
-      {
-         "id":5,
-         "date":"28. 07. 2021",
-         "restrictions":{
-            "__":"Evaluation  of restrictions needs to be true to show the message",
-            "channels":[
-               ""
-            ],
-            "version":[
-               ""
-            ],
-            "version_and_newer":"",
-            "version_and_older":"",
-            "not_first_run":false,
-            "ts_after":null,
-            "ts_before":null
+            "ts_before":1627509600000
          },
          "content":{
             "en":{
