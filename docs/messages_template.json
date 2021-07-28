@@ -13,9 +13,9 @@
             ],
             "version_and_newer":"",
             "version_and_older":"",
-            "not_first_run":"",
-            "ts_after":"",
-            "ts_before":""
+            "not_first_run":false,
+            "ts_after":null,
+            "ts_before":null
          },
          "content":{
             "en":{
@@ -66,8 +66,8 @@
                "version_and_newer":"",
                "version_and_older":"",
                "not_first_run":"",
-               "ts_after":"",
-               "ts_before":""
+               "ts_after":null,
+               "ts_before":0
             }
          }
       },
@@ -84,9 +84,9 @@
             ],
             "version_and_newer":"",
             "version_and_older":"",
-            "not_first_run":"",
-            "ts_after":"",
-            "ts_before":""
+            "not_first_run":false,
+            "ts_after":null,
+            "ts_before":null
          },
          "content":{
             "en":{
@@ -108,6 +108,43 @@
             "images":[
                "http://messages.beamos.mr-beam.org/img/Testimonial%20EN.png"
             ]
+         }
+      },
+      {
+         "id":3,
+         "date":"28. 07. 2021",
+         "restrictions":{
+            "__":"Evaluation  of restrictions needs to be true to show the message",
+            "channels":[
+               "stable"
+            ],
+            "version":[
+               ""
+            ],
+            "version_and_newer":"",
+            "version_and_older":"",
+            "not_first_run":false,
+            "ts_after":1627336800000,
+            "ts_before":null
+         },
+         "content":{
+            "en":{
+               "title":"test",
+               "body":"test",
+               "cta":{
+                  "label":"test",
+                  "url":""
+               }
+            },
+            "de":{
+               "title":"test ",
+               "body":"test",
+               "cta":{
+                  "label":"test",
+                  "url":""
+               }
+            },
+            "images":null
          }
       }
    ]
