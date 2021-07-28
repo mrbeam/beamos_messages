@@ -124,7 +124,7 @@
             "version_and_newer":"",
             "version_and_older":"",
             "not_first_run":false,
-            "ts_after":1627336800000,
+            "ts_after":null,
             "ts_before":null
          },
          "content":{
