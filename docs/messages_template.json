@@ -121,7 +121,7 @@
             "version":[
                ""
             ],
-            "version_and_newer":"0.9.8",
+            "version_and_newer":"0.9.9",
             "version_and_older":"",
             "not_first_run":false,
             "ts_after":null,
@@ -158,7 +158,7 @@
             "version":[
                ""
             ],
-            "version_and_newer":"0.9.6",
+            "version_and_newer":"0.9.7",
             "version_and_older":"",
             "not_first_run":false,
             "ts_after":null,
@@ -196,7 +196,7 @@
                ""
             ],
             "version_and_newer":"",
-            "version_and_older":"0.9.6",
+            "version_and_older":"0.9.7",
             "not_first_run":false,
             "ts_after":null,
             "ts_before":null
@@ -233,7 +233,7 @@
                ""
             ],
             "version_and_newer":"",
-            "version_and_older":"0.9.8",
+            "version_and_older":"0.9.9",
             "not_first_run":false,
             "ts_after":null,
             "ts_before":null
