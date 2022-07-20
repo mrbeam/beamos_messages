@@ -79,11 +79,9 @@
         "channels": [
           ""
         ],
-        "version": [
-          "0.11.0rc1"
-        ],
-        "version_and_newer": "",
-        "version_and_older": "",
+        "version": [],
+        "version_and_newer": "0.11.0",
+        "version_and_older": "0.11.0b9",
         "not_first_run": false,
         "ts_after": null,
         "ts_before": null
