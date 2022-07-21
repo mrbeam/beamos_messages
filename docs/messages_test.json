@@ -1,0 +1,130 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "date": "12. 2. 2021",
+      "restrictions": {
+        "__": "Evaluation  of restrictions needs to be true to show the message",
+        "channels": [],
+        "version": [],
+        "version_and_newer": null,
+        "version_and_older": null,
+        "not_first_run": false,
+        "ts_after": 0,
+        "ts_before": 0
+      },
+      "content": {
+        "en": {
+          "title": "Introducing “Messages From Mr Beam”",
+          "body": "With our new feature “Messages From Mr Beam” you always be kept up to date with the latest news from Mr Beam about your lasercutter.\nMore to come here shortly.\nPlease make sure you and your Mr Beam lasercutter are connected to the internet to get the latest messages.\n\nYour Mr Beam team"
+        },
+        "de": {
+          "title": "Willkommen bei “Nachrichten von Mr Beam”",
+          "body": "Mit unserer neuen Funktion “Nachrichten von Mr Beam” bleibst du immer auf dem Laufenden rund um deinen Mr Beam Lasercutter.\nMehr dazu in Kürze.\nBitte stelle sicher, dass du und dein Mr Beam Lasercutter mit dem Internet verbunden sind, um die neuesten Nachrichten zu bekommen.\n\nDein Mr Beam Team"
+        }
+      },
+      "notification": {
+        "sticky": 30,
+        "type": "info",
+        "en": {
+          "title": "Introducing “Messages From Mr Beam”",
+          "body": "Stay up to date with the latest news from Mr Beam"
+        },
+        "de": {
+          "title": "Willkommen bei “Nachrichten von Mr Beam”",
+          "body": "Bleibe auf dem Laufenden mit Nachrichten von Mr Beam"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "date": "11. 6. 2021",
+      "restrictions": {
+        "__": "Evaluation  of restrictions needs to be true to show the message",
+        "channels": [],
+        "version": [],
+        "version_and_newer": null,
+        "version_and_older": null,
+        "not_first_run": false,
+        "ts_after": 1625090400,
+        "ts_before": 0
+      },
+      "content": {
+        "en": {
+          "title": "We are looking for Testimonials!",
+          "body": "Dear Beamies,\n\nwelcome to the new message area of your Mr Beam! We will regularly provide you with important information and promotions via this message service. Did you already know?  You can become part of the new Mr Beam website as a testimonial! All you have to do is send us one or two short sentences via E-Mail to hello@mr-beam.org and tell us what you do with your Mr Beam, why you decided to buy a Mr Beam or what you think is great about us / the device. Please also tell us how you would like to appear on the testimonial page (with your name or your name and firm). We are really looking forward to your E-Mail!\n\nThank you very much and happy lasering!\n\nYour Mr Beam Team\n\nPS. Are you already part of our official Facebook group? You can network with other users and the Mr Beam team in the group:",
+          "cta": {
+            "label": "www.facebook.com/groups/officialmrbeamusers",
+            "url": "https://www.facebook.com/groups/officialmrbeamusers"
+          }
+        },
+        "de": {
+          "title": "Testimonials gesucht!",
+          "body": "Liebe Beamies,\n\nherzlich Willkommen im neuen Nachrichten-Bereich deines Mr Beams! Wir werden dich hier regelmäßig mit wichtigen Infos und natürlich auch Aktionen versorgen. Schon gewusst? Du kannst Teil der neuen Mr Beam Website als Testimonial werden!  Alles was du dafür tun musst: Schick' uns einfach per E-Mail an hello@mr-beam.org ein bis zwei kurze Sätze und erzähle uns was du mit deinem Mr Beam machst bzw. warum du dich für einen Mr Beam entschieden hast oder was du besonders toll an uns/dem Gerät findest. Bitte schreibe auch dazu wie du genannt werden möchtest (Name oder Name+Firma).  Wir freuen uns auf deine E-Mail! \n\nVielen Dank schon einmal und weiterhin \"happy lasering\"!\n\nEuer Mr Beam Team\n\nPS. Bist du schon Teil unserer offizielle Facebook Gruppe? Du kannst dich in der Gruppe mit anderen Usern und dem Mr Beam Team vernetzen:",
+          "cta": {
+            "label": "www.facebook.com/groups/officialmrbeamusers",
+            "url": "https://www.facebook.com/groups/officialmrbeamusers"
+          }
+        },
+        "images": [
+          "http://messages.beamos.mr-beam.org/img/Testimonial%20EN.png"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "date": "27. 07. 2022",
+      "restrictions": {
+        "__": "Evaluation  of restrictions needs to be true to show the message",
+        "channels": [
+          "beta"
+        ],
+        "version": [],
+        "version_and_newer": "0.11.0",
+        "version_and_older": "0.11.0b9",
+        "not_first_run": false,
+        "ts_after": null,
+        "ts_before": null
+      },
+      "content": {
+        "en": {
+          "title": "A second update is needed!",
+          "body": "This is a two step update, please execute again a update.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        },
+        "de": {
+          "title": "Ein zweites Update wird benötigt!”",
+          "body": "Dieses update ist ein zweistufiges update, bitte führe erneut ein update durch.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        },
+        "images": null
+      },
+      "notification": {
+        "sticky": true,
+        "type": "info",
+        "en": {
+          "title": "A second update is needed!",
+          "body": "This is a two step update, please execute again a update.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        },
+        "de": {
+          "title": "Ein zweites Update wird benötigt!",
+          "body": "Dieses update ist ein zweistufiges update, bitte führe erneut ein update durch.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        }
+      }
+    }
+  ]
+}
