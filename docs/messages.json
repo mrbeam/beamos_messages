@@ -70,6 +70,61 @@
           "http://messages.beamos.mr-beam.org/img/Testimonial%20EN.png"
         ]
       }
+    },
+    {
+      "id": 3,
+      "date": "27. 07. 2022",
+      "restrictions": {
+        "__": "Evaluation  of restrictions needs to be true to show the message",
+        "channels": [
+          "beta"
+        ],
+        "version": [],
+        "version_and_newer": "0.11.0",
+        "version_and_older": "0.11.0b9",
+        "not_first_run": false,
+        "ts_after": null,
+        "ts_before": null
+      },
+      "content": {
+        "en": {
+          "title": "A second update is needed!",
+          "body": "This is a two step update, please execute again a update.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        },
+        "de": {
+          "title": "Ein zweites Update wird benötigt!”",
+          "body": "Dieses update ist ein zweistufiges update, bitte führe erneut ein update durch.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        },
+        "images": null
+      },
+      "notification": {
+        "sticky": true,
+        "type": "info",
+        "en": {
+          "title": "A second update is needed!",
+          "body": "This is a two step update, please execute again a update.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        },
+        "de": {
+          "title": "Ein zweites Update wird benötigt!",
+          "body": "Dieses update ist ein zweistufiges update, bitte führe erneut ein update durch.",
+          "cta": {
+            "label": "",
+            "url": ""
+          }
+        }
+      }
     }
   ]
 }
