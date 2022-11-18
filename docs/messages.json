@@ -143,16 +143,16 @@
       },
       "content": {
         "en": {
-          "title": "Refresh is needed after the last Software Update",
-          "body": "An update has been installed on this Mr beam. To use the new functions, the user interface must be completely reloaded.\nWe call this a hard refresh. To do this, press the three keys at the same time.\nWindows | Crtl + Shift + R\nMac | Command + Shift + R",
+          "title": "'Hard Refresh' is needed after the last Software Update",
+          "body": "An update has been installed on this Mr Beam. To use the new functions, the user interface must be completely reloaded.\nWe call this a 'Hard Refresh'. To do this, press the three keys at the same time.\nWindows | Crtl + Shift + R\nMac | Command + Shift + R",
           "cta": {
             "label": "",
             "url": ""
           }
         },
         "de": {
-          "title": "Nach dem letzten Software-Update ist eine Aktualisierung erforderlich",
-          "body": "Auf diesem Mr Beam wurde ein update installiert. Um die neuen Funktionen nutzen zu können muss die Benutzeroberfläche komplett neu geladen werden.\nWir nennen das einen hard refresh. Um diesen durchzuführern drücke die folgenden Tasten gleichzeitig.\nWindows | Strg + Shift + R\nMac | Command + Shift + R",
+          "title": "Nach dem letzten Software-Update ist ein „Hard Refresh” erforderlich",
+          "body": "Auf diesem Mr Beam wurde ein update installiert. Um die neuen Funktionen nutzen zu können muss die Benutzeroberfläche komplett neu geladen werden.\nWir nennen das einen „Hard Refresh”. Um diesen durchzuführern drücke die folgenden Tasten gleichzeitig.\nWindows | Strg + Shift + R\nMac | Command + Shift + R",
           "cta": {
             "label": "",
             "url": ""
@@ -164,8 +164,8 @@
         "sticky": true,
         "type": "info",
         "en": {
-          "title": "Refresh is needed after the last Software Update",
-          "body": "An update has been installed on this Mr beam. To use the new functions, the user interface must be completely reloaded.\nWe call this a hard refresh. To do this, press the three keys at the same time.\nWindows | Crtl + Shift + R\nMac | Command + Shift + R",
+          "title": "'Hard Refresh' is needed after the last Software Update",
+          "body": "An update has been installed on this Mr Beam. To use the new functions, the user interface must be completely reloaded.\nWe call this a 'Hard Refresh'. To do this, press the three keys at the same time.\nWindows | Crtl + Shift + R\nMac | Command + Shift + R",
           "cta": {
             "label": "",
             "url": ""
@@ -173,8 +173,8 @@
         }
       },
       "de": {
-          "title": "Nach dem letzten Software-Update ist eine Aktualisierung erforderlich",
-          "body": "Auf diesem Mr Beam wurde ein update installiert. Um die neuen Funktionen nutzen zu können muss die Benutzeroberfläche komplett neu geladen werden.\nWir nennen das einen hard refresh. Um diesen durchzuführern drücke die folgenden Tasten gleichzeitig.\nWindows | Strg + Shift + R\nMac | Command + Shift + R",
+          "title": "Nach dem letzten Software-Update ist ein „Hard Refresh” erforderlich",
+          "body": "Auf diesem Mr Beam wurde ein update installiert. Um die neuen Funktionen nutzen zu können muss die Benutzeroberfläche komplett neu geladen werden.\nWir nennen das einen „Hard Refresh”. Um diesen durchzuführern drücke die folgenden Tasten gleichzeitig.\nWindows | Strg + Shift + R\nMac | Command + Shift + R",
           "cta": {
             "label": "",
             "url": ""
