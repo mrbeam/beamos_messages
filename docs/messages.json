@@ -89,7 +89,7 @@
       "content": {
         "en": {
           "title": "A second update is needed!",
-          "body": "This is a two step update, please execute again a update.",
+          "body": "This is a two step update,\nplease execute again an update.",
           "cta": {
             "label": "",
             "url": ""
@@ -97,7 +97,7 @@
         },
         "de": {
           "title": "Ein zweites Update wird benötigt!",
-          "body": "Dieses update ist ein zweistufiges update, bitte führe erneut ein update durch.",
+          "body": "Dieses update ist ein zweistufiges update,\nbitte führe erneut ein update durch.",
           "cta": {
             "label": "",
             "url": ""
@@ -110,7 +110,7 @@
         "type": "info",
         "en": {
           "title": "A second update is needed!",
-          "body": "This is a two step update, please execute again a update.",
+          "body": "This is a two step update,\nplease execute again an update.",
           "cta": {
             "label": "",
             "url": ""
@@ -118,7 +118,7 @@
         },
         "de": {
           "title": "Ein zweites Update wird benötigt!",
-          "body": "Dieses update ist ein zweistufiges update, bitte führe erneut ein update durch.",
+          "body": "Dieses update ist ein zweistufiges update,\nbitte führe erneut ein update durch.",
           "cta": {
             "label": "",
             "url": ""
